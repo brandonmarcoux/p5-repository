@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Particles Yay",
+    "path": "/sketches/particle/index.html",
+    "preview": "/sketches/particle/preview.png"
+  },
+  {
+    "name": "Hovery Circles",
+    "path": "/sketches/circleHover/index.html",
+    "preview": "/sketches/circleHover/preview.png"
+  }
+]
